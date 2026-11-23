@@ -8,8 +8,8 @@ import java.util.Set;
 public class Promocion {
     private final int idPromocion;
     private final String nombre;
-    private final double descuento; // Porcentaje de descuento, ej. 15.0 = 15%
-    private final String horarioActivo; // Ej. "15:00-17:00"
+    private final double descuento; // Porcentaje de descuento
+    private final String horarioActivo; // Ej. Rango de Activacion "12.00-14:00"
     private final Set<DayOfWeek> diasActivos;
 
     public Promocion(int idPromocion, String nombre, double descuento, String horarioActivo, Set<DayOfWeek> diasActivos) {
