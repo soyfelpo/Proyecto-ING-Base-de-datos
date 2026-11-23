@@ -100,7 +100,7 @@ La arquitectura divide el sistema en **tres capas**, de modo que tanto la consol
 ## 6. Entregables — Diagramas
 
 1. **Diagrama de Casos de Uso** *(ver `docs/diagramas/casos-de-uso.png`)*
- **Diagramas de clases por patron** ***patron(Decorator):** *
+ **Diagramas de clases por patron**  **patron(Decorator):** 
 <img width="745" height="698" alt="image" src="https://github.com/user-attachments/assets/a3977206-90e7-4998-a2db-d4a8c33a0736" />**patron(Builder):** *
 <img width="544" height="721" alt="image" src="https://github.com/user-attachments/assets/4d9b9f7a-3893-4549-bf20-4a93496270de" />**patron(Observer):** *
 <img width="764" height="688" alt="image" src="https://github.com/user-attachments/assets/609bf3ac-a876-4809-be54-9f9b15f6ff44" />
