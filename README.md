@@ -101,7 +101,7 @@ La arquitectura divide el sistema en **tres capas**, de modo que tanto la consol
 
 1. **Diagrama de Casos de Uso** *(ver `docs/diagramas/casos-de-uso.png`)*
 
-**Diagramas de clases por patron**
+2.**Diagramas de clases por patron**
 
 **patron(Decorator):** 
 <img width="745" height="698" alt="image" src="https://github.com/user-attachments/assets/a3977206-90e7-4998-a2db-d4a8c33a0736" />
@@ -111,6 +111,9 @@ La arquitectura divide el sistema en **tres capas**, de modo que tanto la consol
 
 **patron(Observer):** 
 <img width="764" height="688" alt="image" src="https://github.com/user-attachments/assets/609bf3ac-a876-4809-be54-9f9b15f6ff44" />
+
+**Diagrama de secuencia(Flujo principal del pedido):**
+<img width="1129" height="556" alt="image" src="https://github.com/user-attachments/assets/2042b10f-9b55-4a84-a653-f9e44ee16989" />
 
    
 3. **Diagrama de Clases General** *(ver `docs/diagramas/clases-general.png`)*
