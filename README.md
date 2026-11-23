@@ -111,7 +111,7 @@ La arquitectura divide el sistema en **tres capas**, de modo que tanto la consol
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
  
 <img width="854" height="690" alt="image" src="https://github.com/user-attachments/assets/ce60eda8-5e9e-4bf5-a846-2b4e94c97277" />
-**patron(Observer):** 
+**patron(Observer):** *
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **Diagrama de secuencia(Flujo principal del pedido):**
