@@ -106,6 +106,12 @@ La arquitectura divide el sistema en **tres capas**, de modo que tanto la consol
 **patron(Decorator):**
 <img width="748" height="696" alt="image" src="https://github.com/user-attachments/assets/44a53483-1e17-4609-bbe8-d796d71cc376" />
 
+**patron(Builder):**
+<img width="516" height="673" alt="image" src="https://github.com/user-attachments/assets/6be64fd0-5ec1-4e98-a660-5bed7fedfc6e" />
+
+**patron(Observer):** 
+<img width="854" height="690" alt="image" src="https://github.com/user-attachments/assets/ce60eda8-5e9e-4bf5-a846-2b4e94c97277" />
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **Diagrama de secuencia(Flujo principal del pedido):**
 <img width="1129" height="556" alt="image" src="https://github.com/user-attachments/assets/2042b10f-9b55-4a84-a653-f9e44ee16989" />
