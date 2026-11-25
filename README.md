@@ -120,4 +120,4 @@ Este diagrama tiene como finalidad representar cómo está estructurado nuestro 
 Este diagrama nos permite representar cómo se desarrolla un proceso dentro del sistema a través del tiempo, mostrando el orden de las operaciones y la comunicación entre los diferentes participantes.
    
 3. **Diagrama de Clases General** *(ver `docs/diagramas/clases-general.png`)*
-   este mapa nos permite ver el proceso
+   este mapa nos permite ver el proceso de
