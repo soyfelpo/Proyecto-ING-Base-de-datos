@@ -5,7 +5,7 @@
 
 **Universidad Libre — Ingeniería de Software II**  
 * **Integrantes:** Daniel Stiven Avellaneda Medina, Luis Hernando Rico Batanero, Duvan Felipe Leon Vallejo   
-* **Docente:** Marcela Cifuentes  
+* **Docente de:** Marcela Cifuentes  
 
 ---
 
