@@ -100,8 +100,9 @@ La arquitectura divide el sistema en **tres capas**, de modo que tanto la consol
 ## 6. Entregables — Diagramas
 
 1. **Diagrama de Casos de Uso** *(ver `docs/diagramas/casos-de-uso.png`)*
-
+Este diagrama tiene como finalidad representar cómo está estructurado nuestro sistema internamente. Nos permite identificar las diferentes clases que lo componen, sus atributos, sus métodos y la manera en que se relacionan entre sí.
 2.**Diagramas de clases por patron**
+   Este diagrama tiene como objetivo representar las funcionalidades que ofrece nuestro sistema y la manera en que los diferentes usuarios interactúan con él.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 **patron(Decorator):**
 <img width="748" height="696" alt="image" src="https://github.com/user-attachments/assets/44a53483-1e17-4609-bbe8-d796d71cc376" />
@@ -116,6 +117,6 @@ La arquitectura divide el sistema en **tres capas**, de modo que tanto la consol
 
 **Diagrama de secuencia(Flujo principal del pedido):**
 <img width="1129" height="556" alt="image" src="https://github.com/user-attachments/assets/2042b10f-9b55-4a84-a653-f9e44ee16989" />
-
+Este diagrama nos permite representar cómo se desarrolla un proceso dentro del sistema a través del tiempo, mostrando el orden de las operaciones y la comunicación entre los diferentes participantes.
    
 3. **Diagrama de Clases General** *(ver `docs/diagramas/clases-general.png`)*
